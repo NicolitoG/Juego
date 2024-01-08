@@ -1,7 +1,109 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1704753726
-icon.svg::CompressedTexture2D::5562956185307672245::1704753236::1704753461::1::::<><>::
+::res://::1704754201
+icon.svg::CompressedTexture2D::5562956185307672245::1704753236::1704754014::1::::<><>::
 README.md::TextFile::-1::1704753236::0::1::::<><>::
+::res://Assets/::1704754201
+::res://Assets/Enemy/::1704754190
+::res://Assets/Enemy/Orc Crew/::1704754190
+::res://Assets/Enemy/Orc Crew/Orc/::1704754190
+::res://Assets/Enemy/Orc Crew/Orc/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::970887746060660613::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::7099985031572464336::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::3706251577350870560::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc - Rogue/::1704754190
+::res://Assets/Enemy/Orc Crew/Orc - Rogue/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::5706484642273024974::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc - Rogue/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::2428902787800007449::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc - Rogue/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::8507110506962307851::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc - Shaman/::1704754190
+::res://Assets/Enemy/Orc Crew/Orc - Shaman/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::981235753997650828::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc - Shaman/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::4427070954971389605::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc - Shaman/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::6105122432345174380::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc - Warrior/::1704754190
+::res://Assets/Enemy/Orc Crew/Orc - Warrior/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::4936625599701740455::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc - Warrior/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::2730849466375540422::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Orc Crew/Orc - Warrior/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::4444720253393138964::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/::1704754190
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Base/::1704754190
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Base/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::7185563444392408652::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Base/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::3822723302310646110::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Base/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::3219215337422017500::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Mage/::1704754190
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Mage/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::4987349733290016615::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Mage/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::4655178605609063263::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Mage/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::8303490893564229480::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Rogue/::1704754190
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Rogue/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::1369404455876611064::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Rogue/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::2580442588287773157::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Rogue/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::2312528816702248581::1704754190::1704754202::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Warrior/::1704754190
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Warrior/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::4449961025765650010::1704754190::1704754201::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Warrior/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::8624545322760737638::1704754190::1704754201::1::::<><>::
+::res://Assets/Enemy/Skeleton Crew/Skeleton - Warrior/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::411790579384293832::1704754190::1704754201::1::::<><>::
+::res://Assets/Environment/::1704754190
+::res://Assets/Environment/Dungeon Prison/::1704754190
+::res://Assets/Environment/Dungeon Prison/Assets/::1704754191
+Props.png::CompressedTexture2D::1259324495833045319::1704754190::1704754201::1::::<><>::
+Tiles.png::CompressedTexture2D::1662131223497435456::1704754190::1704754201::1::::<><>::
+::res://Assets/Environment/Green Woods/::1704754190
+::res://Assets/Environment/Green Woods/Assets/::1704754191
+Props.png::CompressedTexture2D::940863202781701527::1704754190::1704754201::1::::<><>::
+Tiles.png::CompressedTexture2D::877104944029349675::1704754190::1704754201::1::::<><>::
+Trees.png::CompressedTexture2D::2412201749518673958::1704754190::1704754201::1::::<><>::
+::res://Assets/Heroes/::1704754190
+::res://Assets/Heroes/Knight/::1704754190
+::res://Assets/Heroes/Knight/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::1997555985160421664::1704754190::1704754201::1::::<><>::
+::res://Assets/Heroes/Knight/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::14836345372092508::1704754190::1704754201::1::::<><>::
+::res://Assets/Heroes/Knight/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::779625963875474745::1704754190::1704754201::1::::<><>::
+::res://Assets/Heroes/Rogue/::1704754190
+::res://Assets/Heroes/Rogue/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::4409378060101086152::1704754190::1704754201::1::::<><>::
+::res://Assets/Heroes/Rogue/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::510746039287149192::1704754190::1704754201::1::::<><>::
+::res://Assets/Heroes/Rogue/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::5305159113297473658::1704754190::1704754201::1::::<><>::
+::res://Assets/Heroes/Wizzard/::1704754190
+::res://Assets/Heroes/Wizzard/Death/::1704754191
+Death-Sheet.png::CompressedTexture2D::5687598231850799313::1704754190::1704754201::1::::<><>::
+::res://Assets/Heroes/Wizzard/Idle/::1704754191
+Idle-Sheet.png::CompressedTexture2D::1503024977915943728::1704754190::1704754201::1::::<><>::
+::res://Assets/Heroes/Wizzard/Run/::1704754191
+Run-Sheet.png::CompressedTexture2D::2386142883857840880::1704754190::1704754202::1::::<><>::
+::res://Assets/Weapons/::1704754190
+::res://Assets/Weapons/Bone/::1704754191
+Bone.png::CompressedTexture2D::4666172065546353731::1704754190::1704754201::1::::<><>::
+::res://Assets/Weapons/Hands/::1704754191
+Hands.png::CompressedTexture2D::7477278193850928377::1704754190::1704754201::1::::<><>::
+::res://Assets/Weapons/Wood/::1704754191
+Wood.png::CompressedTexture2D::8510382901709336930::1704754190::1704754201::1::::<><>::
+::res://Batalla/::1704754117
+batalla.tscn::PackedScene::8045429300264173112::1704754117::0::1::::<><>::
 ::res://Escenario/::1704753713
 mundo.tscn::PackedScene::7572900881328054660::1704753495::0::1::::<><>::
-::res://Personajes/::1704753726
+::res://Personajes/::1704754142
+personaje.tscn::PackedScene::6008551765235756971::1704754142::0::1::::<><>::
